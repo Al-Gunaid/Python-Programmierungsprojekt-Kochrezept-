@@ -1,0 +1,7 @@
+tk
+tkcalendar
+tkinter
+sqlite3
+email.mime.text
+datetime
+smtplib
